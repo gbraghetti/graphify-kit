@@ -1,0 +1,12 @@
+# O Graphify inteiro mora aqui (recriado pelos scripts)
+.venv/
+__pycache__/
+
+# Mapas: grandes, refeitos a qualquer hora, e citam nomes de arquivos dos
+# projetos mapeados
+mapas/
+
+# Nomes dos blocos: citam caminhos dos projetos mapeados. Se o repositório
+# for privado, pode tirar esta linha e versionar (é o trabalho de nomear
+# que vale guardar).
+nomes/
